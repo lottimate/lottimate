@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />&nbsp;&nbsp;
 <hr>
 
-<h2> <img src="https://github.com/lottimate/lottimate/blob/main/win11.svg"> Used OS and distros <img src="https://github.com/lottimate/lottimate/blob/main/ubuntu.png"></h2>
+<h2> <img src="https://github.com/lottimate/lottimate/blob/main/windows-11.png"> Used OS and distros <img src="https://github.com/lottimate/lottimate/blob/main/ubuntu.png"></h2>
 
 
 <img src="https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0" />&nbsp;&nbsp;
