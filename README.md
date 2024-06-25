@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />&nbsp;&nbsp;
 <hr>
 
-<h2> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Windows_logo_-_2021.svg/25px-Windows_logo_-_2021.svg.png">Used OS and distros</h2>
+<h2> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Windows_logo_-_2021.svg/25px-Windows_logo_-_2021.svg.png"> Used OS and distros <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg"></h2>
 
 
 <img src="https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0" />&nbsp;&nbsp;
